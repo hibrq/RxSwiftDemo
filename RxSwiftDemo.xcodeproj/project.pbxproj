@@ -18,6 +18,7 @@
 		63619D922707E32D000EF22D /* PlayWithObservables.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63619D912707E32D000EF22D /* PlayWithObservables.swift */; };
 		63619D95270A8073000EF22D /* PlayWithSubjects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63619D94270A8073000EF22D /* PlayWithSubjects.swift */; };
 		639050EF270D25550030676A /* FilterOperators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639050EE270D25550030676A /* FilterOperators.swift */; };
+		639050ED270BD8AB0030676A /* ObservablesAndSubjectsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 639050EC270BD8AB0030676A /* ObservablesAndSubjectsPractice.swift */; };
 		648F831AE30E4F461C8BECEB /* Pods_RxSwiftDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D42B1DCD27279DFF4DBC4741 /* Pods_RxSwiftDemo.framework */; };
 /* End PBXBuildFile section */
 
@@ -56,6 +57,7 @@
 		63619D912707E32D000EF22D /* PlayWithObservables.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayWithObservables.swift; sourceTree = "<group>"; };
 		63619D94270A8073000EF22D /* PlayWithSubjects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayWithSubjects.swift; sourceTree = "<group>"; };
 		639050EE270D25550030676A /* FilterOperators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterOperators.swift; sourceTree = "<group>"; };
+		639050EC270BD8AB0030676A /* ObservablesAndSubjectsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ObservablesAndSubjectsPractice.swift; sourceTree = "<group>"; };
 		6DCCDDBA3CEEB7E5D99E4B32 /* Pods-RxSwiftDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxSwiftDemo.release.xcconfig"; path = "Target Support Files/Pods-RxSwiftDemo/Pods-RxSwiftDemo.release.xcconfig"; sourceTree = "<group>"; };
 		C112B172612D47EF599D8C96 /* Pods-RxSwiftDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxSwiftDemo.debug.xcconfig"; path = "Target Support Files/Pods-RxSwiftDemo/Pods-RxSwiftDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		D42B1DCD27279DFF4DBC4741 /* Pods_RxSwiftDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RxSwiftDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -126,6 +128,7 @@
 				63619D912707E32D000EF22D /* PlayWithObservables.swift */,
 				63619D94270A8073000EF22D /* PlayWithSubjects.swift */,
 				639050EE270D25550030676A /* FilterOperators.swift */,
+				639050EC270BD8AB0030676A /* ObservablesAndSubjectsPractice.swift */,
 				63619D672707DDF1000EF22D /* Main.storyboard */,
 				63619D6A2707DDF5000EF22D /* Assets.xcassets */,
 				63619D6C2707DDF5000EF22D /* LaunchScreen.storyboard */,
@@ -335,6 +338,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				639050ED270BD8AB0030676A /* ObservablesAndSubjectsPractice.swift in Sources */,
 				63619D662707DDF1000EF22D /* ViewController.swift in Sources */,
 				639050EF270D25550030676A /* FilterOperators.swift in Sources */,
 				63619D622707DDF1000EF22D /* AppDelegate.swift in Sources */,
